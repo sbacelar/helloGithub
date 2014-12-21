@@ -15,7 +15,7 @@ joa_nl2 <- joa_nl[,c("num", "horas_sono2d", "projFuturod", "IGDEd", "Caminhadasd
 
 attach(joa_nl2)
 # q8.15a <- as.factor(q8.15a)
-# Uma alternativa
+# Uma alternativ
 # spssdatac$q8.15a <- as.factor(spssdatac$q8.15a)
 
 
